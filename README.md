@@ -1,4 +1,4 @@
-## Due Aug 28 before midnight: Github Pull Request 
+## Due Aug 22 before midnight: Github Pull Request 
 
 1. Sign up for [GitHub](https://github.com/) if not already signed
      up. Pick default (free plan).
