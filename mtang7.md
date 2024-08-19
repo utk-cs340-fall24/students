@@ -4,6 +4,7 @@
 3. Github username: SolViolet
 4. Major: Computer Science
 
-- I came from China and have being in the U.S. for ten plus years
-- My hobbies are mobile gaming and reading manga
-- 
+- I came from China and have being in the U.S. for ten plus years.
+- My hobbies are mobile gaming and reading manga.
+- https://artincontext.org/what-is-manga/ This is a page that talks about how manga came to be and its characterics. 
+- The languages that I'm familiar with are C and C++.
