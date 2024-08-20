@@ -20,10 +20,10 @@ I see this class as an opportunity to innovate. A whole semester dedicated to ma
 I do a lot of reading regarding business acumen, politics, technology and personal development. I believe in being a jack of all trades. 
 
 # Links
-- wavedepth: https://docs.wavedepth.com/about
-   - This company introduced to me how important UX/UI was and gave me the opportunity to see 
-- ORNL: https://snap-planner.ornl.gov/
-   - This was a project I did. Mathematically and functionality wise it worked. However, I failed on making it dynamic. I should've paid attention to UX/UI principles here.
+* wavedepth: https://docs.wavedepth.com/about
+   1. This company introduced to me how important UX/UI was and gave me the opportunity to see 
+* ORNL: https://snap-planner.ornl.gov/
+   1. This was a project I did. Mathematically and functionality wise it worked. However, I failed on making it dynamic. I should've paid attention to UX/UI principles here.
 
 # Technical
 ## Languages
