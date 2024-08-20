@@ -1,9 +1,11 @@
 # Hello! My name is Harrison Crettol
 
 ## ABOUT ME
+* I am born and raised in Knoxville.
+* I transfered to UTK last year after graduating from Pellissippi. 
 * My netid is **hcrettol** and my github username is **harrisoncrettol**
 * My major is Computer Science. I am interested in AI development and research.
-My favorite languages and frameworks include:
+* My favorite languages and frameworks include:
 1. Python
 1. Tensorflow
 1. SQL
