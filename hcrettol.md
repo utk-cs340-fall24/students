@@ -23,3 +23,4 @@
     3. Waka Flocka in Knoxville
 
 * I have a [**YouTube channel**](https://www.youtube.com/@harrisoncrettol) where I used to post videos of projects I was working on and an introduction course to Python.
+* You can find more of my work on my [**GitHub profile**](https://github.com/harrisoncrettol) and connect with me on [**LinkedIn**](https://www.linkedin.com/in/harrisoncrettol).
