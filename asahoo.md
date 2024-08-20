@@ -1,7 +1,9 @@
 # Anant Jeet Sahoo
 
 **NetId:** asahoo
+
 **GitHub Username:** anantsahoo
+
 **Major:** Computer Science
 
 ## Backgorund
