@@ -1,7 +1,7 @@
 # About Me
 
 **Name:** Kevin Guo  
-**UT NetID:** kguo4
+**UT NetID:** kguo4  
 **GitHub Username:** kvnguo  
 **Major:** Computer Science
 
