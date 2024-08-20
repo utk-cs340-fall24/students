@@ -23,6 +23,16 @@ When I'm not at my job or doing schoolwork, I'm usually working on a hobby of mi
 - Making videos
 - Finding ways of worrying my parents (to their dismay, I've gotten interested in skydiving).
 
+## Tools
+
+- C/C++
+- Python (Pandas, Numpy)
+- R
+- HTML/CSS and JavaScript
+- Bash
+- React (Nextjs), Django, Flask, Svelte (Sveltekit)
+- SQLite3, PostgreSQL, Supabase, Vercel
+
 ## Conclusion
 
 I'm into a lot of things! Feel free to talk to me about anything (I've probably been interested by it at some point). I love meeting new people!
