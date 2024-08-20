@@ -17,3 +17,4 @@ I graduated in 2022 with a BS in Mathematics and a minor in Computer Science and
 * C++
 * Git
 
+
