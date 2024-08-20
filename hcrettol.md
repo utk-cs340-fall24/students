@@ -18,9 +18,9 @@
     3. Pizza
 
 * I also really like music and have recently started going to concerts. This past summer I took a few spontanious trips to see a few artists I like. Some of my favorite shows I went to were: 
-    1. The Kid Laroi in Nashville
-    2. Grey Day in Atlanta
-    3. Waka Flocka in Knoxville
+    1. **The Kid Laroi** in Nashville
+    2. **Grey Day** in Atlanta
+    3. **Waka Flocka** in Knoxville
 
 * I have a [**YouTube channel**](https://www.youtube.com/@harrisoncrettol) where I used to post videos of projects I was working on and an introduction course to Python.
-* You can find more of my work on my [**GitHub profile**](https://github.com/harrisoncrettol) and connect with me on [**LinkedIn**](https://www.linkedin.com/in/harrisoncrettol).
+* You can find more of my work on my [**GitHub profile**](https://github.com/harrisoncrettol) and connect with me on [**LinkedIn**](https://www.linkedin.com/in/harrison-crettol-3bb67530b/).
