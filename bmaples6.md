@@ -1,6 +1,6 @@
 # Who I Am
 - Name: Brent Maples
-- Netid: bmaples
+- Netid: bmaples6
 - Github Username: Soontam
 - Major: Computer Science
   - Minor: Machine Learning 
