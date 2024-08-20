@@ -10,7 +10,7 @@ Github Username: Yaucrates
 
 Major: Computer Science
 
-Find out more about me on my [Personal Website](yousifabdulhussein.com)!
+Find out more about me on my [Personal Website](https://www.yousifabdulhussein.com/)!
 
 ## Background
 
