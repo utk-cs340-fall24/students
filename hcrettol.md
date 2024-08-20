@@ -12,11 +12,6 @@
     4. HTML/CSS/JS
 
 ## MY HOBBIES
-* I enjoy hanging out with friends and cooking. Some of my favorite foods are:
-    1. Pasta
-    2. Tacos
-    3. Pizza
-
 * I also really like music and have recently started going to concerts. This past summer I took a few spontanious trips to see a few artists I like. Some of my favorite shows I went to were: 
     1. The Kid Laroi in Nashville
     2. Grey Day in Atlanta
