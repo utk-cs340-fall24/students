@@ -1,0 +1,1 @@
+My name is Harrison Crettol. My netid is hcrettol and my github username is harrisoncrettol. My major is Computer Science. I am born and raised in Knoxville. I am interested in AI development and research. I like hanging out with friends and have recently started going to concerts. My favorite languages and frameworks include Python, Tensorflow, HTML/CSS/JS.
