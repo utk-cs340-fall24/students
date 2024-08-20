@@ -13,9 +13,3 @@ Some languages that I know include:
   - C++
   - java
   - python
-
-git add vgupta8.md
-
-git commit -m 'adding my background information'
-
-git push
