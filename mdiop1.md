@@ -7,9 +7,9 @@
 **Github Username**: Mourtish
 
 ## Summary
-I am a senior majoring in Computer Science and minoring in cybersecurity , I am from Nashville Tennessee. 
+I am  majoring in Computer Science and minoring in cybersecurity . I was born in Nashville, Tennessee, but spent most of my childhood growing up in Senegal." 
 ## Interest
-I am interested in Cybersecurity and machine learning as well as Web development.
+I am interested in cybersecurity and machine learning, and I also enjoy web development. In my free time, I love playing soccer and piano.
 
 [My github](https://github.com/Mourtish)
 
