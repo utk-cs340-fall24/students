@@ -11,7 +11,11 @@ I am a senior majoring in Computer Science and minoring in cybersecurity , I am 
 
 ## Tools and languages
 -C++
+
 -C
+
 -Python
+
 -HTML,CSS,JavaScript
+
 -Tools : Git, Vscode, Jupyter Notebooke
