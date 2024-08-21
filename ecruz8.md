@@ -1,8 +1,9 @@
 ## Erik Cruz
+**-netID:** ecruz8
 
-**ecruz8**
-**ecruzmango**
-**MAJOR:** #Computer science
+**-Username:** ecruzmango
+
+**-MAJOR:** Computer science
 
 ## Background
 I am currently in my second year in the University of Tennessee, Knoxville. My coursework in data structures and algorithmns help understand how these methods can be applied to game development. I have a background in C++,HTML/CSS,and Python 
