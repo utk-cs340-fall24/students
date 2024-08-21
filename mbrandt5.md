@@ -10,7 +10,7 @@ I grew up in a rural town in middle Tennessee. I've always had an interest in sp
 My academic interest has been cultivated throughout my undergraduate degree towards the pursuit of math and its interface with theoretical computer science.
 
 ## Hobbies
-Reading: [currently reading](www.brandonsanderson.com/the-stormlight-archive-series) \
+Reading: [currently reading](https://www.brandonsanderson.com/the-stormlight-archive-series/) \
 Writing \
 Rock climbing \
 Photography
