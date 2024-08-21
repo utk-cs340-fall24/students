@@ -6,7 +6,7 @@
 
 ## About Me
 I am a junior in computer science and have lived in Knoxville for the past 12 years. 
-I like to read draw, paint, read manga, watch anime, and play video games. I've been playing a lot of [Ace Attorney](https://www.ace-attorney.com/) recently. I can speak Spanish and can understand Akateko somewhat.
+I like to draw, paint, read manga, watch anime, and play video games. I've been playing a lot of [Ace Attorney](https://www.ace-attorney.com/) recently. I can speak Spanish and can understand Akateko somewhat.
 
 ## Skills 
 - c++
