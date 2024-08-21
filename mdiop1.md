@@ -1,9 +1,9 @@
-#Mourtalla Diop
+# Mourtalla Diop
 **Nickname**: Talla
 **Ut netid**: mdiop1
 **Github Username**: Mourtish
 
-##Summary
+## Summary
 I am a senior majoring in Computer Science and minoring in cybersecurity , I am from Nashville Tennessee. 
 
 ## Tools and languages
