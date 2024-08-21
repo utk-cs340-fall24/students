@@ -1,11 +1,11 @@
-#PHU HOANG
+# PHU HOANG
 
 ## Info
 - Full name: Phu Hoang
 - Prefer name: Leon
-- NetID: *phoang5*
-- GitHub Username: PhuHoang177
-- Major: *Computer Science*
+- NetID: **phoang5**
+- GitHub Username: **PhuHoang177**
+- Major: **Computer Science**
 ---
 
 ## Background
@@ -14,8 +14,8 @@
 ---
 
 ## Interests
-- I love *video games*. They passionate me to choose the C.S major.
-- I also love *Anime* and *Cosplay*. I actually did some cosplays.
+- I love video games. They passionate me to choose the C.S major.
+- I also love Anime and Cosplay. I actually did some cosplays.
 ---
 
 ## My Links:
