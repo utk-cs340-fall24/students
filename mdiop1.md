@@ -1,25 +1,26 @@
 # Mourtalla Diop
+**Nickname:** Talla
 
-**Nickname**: Talla
+**UT NetID:** mdiop1
 
-**Ut netid**: mdiop1
-
-**Github Username**: Mourtish
+**GitHub Username:** Mourtish
 
 ## Summary
-I am  majoring in Computer Science and minoring in cybersecurity . I was born in Nashville, Tennessee, but spent most of my childhood growing up in Senegal." 
-## Interest
+I am majoring in Computer Science and minoring in Cybersecurity. I was born in Nashville, Tennessee, but spent most of my childhood growing up in Senegal.
+
+## Interests
 I am interested in cybersecurity and machine learning, and I also enjoy web development. In my free time, I love playing soccer and piano.
 
-[My github](https://github.com/Mourtish)
+[My GitHub](https://github.com/Mourtish)
 
-## Tools and languages
--C++
+## Tools and Languages
+- **Programming Languages:**
+  - C++
+  - C
+  - Python
+  - HTML, CSS, JavaScript
 
--C
-
--Python
-
--HTML,CSS,JavaScript
-
--Tools : Git, Vscode, Jupyter Notebooke
+- **Tools:**
+  - Git
+  - VSCode
+  - Jupyter Notebook
