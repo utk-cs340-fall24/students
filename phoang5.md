@@ -5,7 +5,7 @@
 - Prefer name: Leon
 - NetID: **phoang5**
 - GitHub Username: **PhuHoang177**
-- Major: **Computer Science**
+- Major: Computer Science
 ---
 
 ## Background
