@@ -1,6 +1,9 @@
 # Mourtalla Diop
+
 **Nickname**: Talla
+
 **Ut netid**: mdiop1
+
 **Github Username**: Mourtish
 
 ## Summary
