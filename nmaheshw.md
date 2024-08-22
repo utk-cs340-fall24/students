@@ -1,6 +1,8 @@
 
 # Nia Maheshwari
 
+---
+
 ### UT netid: nmaheshw
 
 ### GitHub username: pebblefoot31
@@ -16,7 +18,7 @@ My perspective towards computer science is defined by its interdisciplinary pote
     -Linux Terminal
     -Git
 
-Outside of school, I enjoy creating art through a variety of mediums, including oil paints and color pencils. Here is a link to a popular art contest I participated in throughout high school: 
+Outside of school, I enjoy creating art through a variety of mediums, including oil paints and color pencils. Here is a link to a popular art contest I participated in throughout high school: [Wildlife Forever State Fish Art](https://www.theartofconservation.org/2024-fish-art-winners).
 
 I also love watching movies and having deep conversations with close family and friends.
 
