@@ -1,4 +1,4 @@
-# Deep
+# Deep Patel
 * Net ID: dpate125
 * Github Username: Deep0320
 * Major: Computer Science
