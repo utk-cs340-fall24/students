@@ -4,7 +4,7 @@
 
 Name: Ulugbek Kahramonov
 NetID: ukahramo
-GitHub: [bek-kah](github.com/bek-kah)
+GitHub: [bek-kah](https://github.com/bek-kah)
 Major: Computer Science
 
 ## Background
