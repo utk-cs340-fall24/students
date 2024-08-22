@@ -35,7 +35,8 @@ In my freetime I enjoy hanging out with my girlfriend, spending time with my co-
 
 <!-- link to another HTML page with hobbies and interest -->
 
-[More Hobbies and Interest](more_background_+_interests.html)
+[MonkeyType](https://monkeytype.com/)
+[YouTube](https://www.youtube.com/)
 
 <!-- Mini Header - "Technologies I am familiar with" -->
 
