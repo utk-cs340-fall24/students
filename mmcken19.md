@@ -1,4 +1,4 @@
-# [Molly McKenzie]
+# Molly McKenzie
 
 NetID: mmcken19
 Github Username: mollymckenzie
