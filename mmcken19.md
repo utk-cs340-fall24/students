@@ -4,7 +4,7 @@ NetID: mmcken19
 Github Username: mollymckenzie
 Major: Computer Science
 
-##Background
+## Background
 
 I have a background in computer science using C++ and Java. I also have experience with website development using Javascript, CSS and HTML through an internship. 
 
