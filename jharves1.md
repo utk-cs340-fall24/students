@@ -2,6 +2,7 @@
 Hello, my name is Jordan Harveston and I am a CS major here at UTK. I've lived here in Tennessee my entire life, and was born here in Knoxville.
 
 NetID: jharves1
+
 Github Username: rivetingpeach
 
 # My interests 
