@@ -5,7 +5,7 @@
 
 **Major:** Computer Science
 
-## Backgorund :)
+## Background :)
 
 I am from Maryland and I have a dog named Onyx.
 
