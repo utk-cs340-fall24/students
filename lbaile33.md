@@ -11,8 +11,8 @@ I am currently a junior at the University of Tennessee, I have grown up around c
 
 ## Interests
 
-Whenever I have free time I often fill the time with games. I am currently a League of Legends rep for the UTK Esports club building a team to compete in the coming fall and spring seasons. I am also interested in how we can use and shape ourselves using AI to automate more and more complex tasks.
-If you happen to be interested in joining the league team you can find more information and join tryouts by fillout this form: https://forms.gle/xPmD3TknM2Xp5CXV9
+A huge interest of mine is the ongoing evolution of AI and how we can use it to shape ourselves by automating more and more complex tasks. Otherwise whenever I have free time I often fill the time with games. I am currently a League of Legends rep for the UTK Esports club building a team to compete in the coming fall and spring seasons.
+If you happen to be interested in joining the league team you can find more information and join tryouts by filling out this form: https://forms.gle/xPmD3TknM2Xp5CXV9
 
 ## Familiar languages and tools
 
