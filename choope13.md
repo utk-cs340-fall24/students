@@ -10,3 +10,4 @@ My name is Cheyenne Hooper, im a junior compsci major with a focus in cybersecur
 ## Skills
 * c++
 * java 
+* mysql
