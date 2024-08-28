@@ -24,7 +24,15 @@ convenient piece of software that allows them to find said ways to contribute.
 
 ### Languages/ Tool Sets/ Third-Party Code:
 
-+ Not sure yet
++ HTML/CSS
++ Javascript
++ React.js
++ Bootstrap
++ Node.js with Express.js
++ Python with Flask
++ MongoDB
++ Google Maps API
+
 
 ### Audience for Project:
 
